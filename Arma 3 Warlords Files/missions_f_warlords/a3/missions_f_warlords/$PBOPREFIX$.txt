@@ -1,0 +1,7 @@
+///////<HEADER>///////
+prefix=a3\missions_f_warlords
+product=Arma 3
+version=137544
+Pbo Type is: Arma Addon
+Sha: '93105373F9AC4582BAF462FCD1713BBBD737659C'
+//////</HEADER>//////

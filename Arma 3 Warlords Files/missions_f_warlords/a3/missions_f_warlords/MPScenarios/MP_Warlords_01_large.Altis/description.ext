@@ -1,0 +1,10 @@
+#include "\A3\Missions_F_Warlords\defaultDescription.inc"
+#include "\A3\Missions_F_Warlords\cfgMissionParams.inc"
+disabledAI = 1;
+
+class Header
+{
+	gameType = Warlords;
+	minPlayers = 1;
+	maxPlayers = 64;
+};

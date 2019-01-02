@@ -1,0 +1,103 @@
+class Sentences
+{
+	class Airdrop
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\airdrop"};
+		class Arguments {};
+	};
+	class Canceled
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\canceled"};
+		class Arguments {};
+	};
+	class Defeat
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\defeat"};
+		class Arguments {};
+	};
+	class Destination
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\destination"};
+		class Arguments {};
+	};
+	class Dropzone
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\dropzone"};
+		class Arguments {};
+	};
+	class Enemy_advancing
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\enemy_advancing"};
+		class Arguments {};
+	};
+	class Fast_travel
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\fast_travel"};
+		class Arguments {};
+	};
+	class Initialized
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\initialized"};
+		class Arguments {};
+	};
+	class Lost
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\lost"};
+		class Arguments {};
+	};
+	class Scan
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\scan"};
+		class Arguments {};
+	};
+	class Scan_terminated
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\scan_terminated"};
+		class Arguments {};
+	};
+	class Sector
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\sector"};
+		class Arguments {};
+	};
+	class Seized
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\seized"};
+		class Arguments {};
+	};
+	class Selected
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\selected"};
+		class Arguments {};
+	};
+	class Victory
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\victory"};
+		class Arguments {};
+	};
+	class Voting
+	{
+		text = "";
+		speech[] = {"\A3\Modules_F_Warlords\Sounds\voting"};
+		class Arguments {};
+	};
+};
+class Arguments{};
+class Special{};
+startWithVocal[] = {hour};
+startWithConsonant[] = {europe, university};

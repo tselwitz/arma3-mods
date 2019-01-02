@@ -1,0 +1,7 @@
+///////<HEADER>///////
+prefix=a3\dubbing_f_warlords
+product=Arma 3
+version=136700
+Pbo Type is: Arma Addon
+Sha: 'BD36545D6C102B0480BFCA6FECC584910326A25D'
+//////</HEADER>//////
